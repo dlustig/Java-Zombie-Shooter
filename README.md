@@ -10,7 +10,9 @@ This is a tower defense game. It implements dynamically created objects in the f
 Instructions:
 
 *make sure your java JDK is updated past 51*
+
 1. run command javac ZombieAttack.java
+
 2. run command java ZombieAttack
 
 
